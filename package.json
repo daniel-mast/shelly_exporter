@@ -1,0 +1,16 @@
+{
+  "name": "shelly_exporter",
+  "version": "1.0.0",
+  "description": "Shelly gen2 Script: metrics HTTP Endpoint",
+  "main": "shelly_exporter.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Daniel Mast",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-rewire": "^1.2.0",
+    "jasmine": "^4.5.0",
+    "rewire": "^6.0.0"
+  }
+}
